@@ -3,7 +3,7 @@ package contactModule;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class ToCreateContact {
+public class ToCreateContactTest {
 	@Test
 	public void createContact()
 	{
