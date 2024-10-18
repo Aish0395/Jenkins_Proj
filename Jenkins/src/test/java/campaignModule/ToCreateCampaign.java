@@ -8,6 +8,7 @@ public class ToCreateCampaign {
 	public void createCampaign()
 	{
 		Reporter.log("Campaign creted successfully",true);
+		Reporter.log("Done",true);
 	}
 	
 
