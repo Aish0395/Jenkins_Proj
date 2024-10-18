@@ -1,15 +1,14 @@
-package orgModule;
+package campaignModule;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class ToCreateOrganizationTest {
+public class ToCreateCampaign {
 	@Test
 	public void createCampaign()
 	{
-		Reporter.log("Organizaton creted successfully",true);
+		Reporter.log("Campaign creted successfully",true);
 	}
 	
 
 }
-
